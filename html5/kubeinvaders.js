@@ -74,7 +74,7 @@ var aliensIncrementY = 50;
 
 var shuffle = true;
 var help = false;
-var chaos_nodes = true;
+var chaos_nodes = false;
 var chaos_pods = true;
 
 var alert_div = '<div id="alert_placeholder" style="margin-top: 2%; background-color:#000000; color: #0cf52b" class="alert" role="alert">';
